@@ -1,0 +1,13 @@
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\obj\Debug\netcoreapp3.1\ConfigurationDemo.csprojAssemblyReference.cache
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\obj\Debug\netcoreapp3.1\ConfigurationDemo.AssemblyInfoInputs.cache
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\obj\Debug\netcoreapp3.1\ConfigurationDemo.AssemblyInfo.cs
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\obj\Debug\netcoreapp3.1\ConfigurationDemo.csproj.CoreCompileInputs.cache
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\bin\Debug\netcoreapp3.1\ConfigurationDemo.exe
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\bin\Debug\netcoreapp3.1\ConfigurationDemo.deps.json
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\bin\Debug\netcoreapp3.1\ConfigurationDemo.runtimeconfig.json
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\bin\Debug\netcoreapp3.1\ConfigurationDemo.runtimeconfig.dev.json
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\bin\Debug\netcoreapp3.1\ConfigurationDemo.dll
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\bin\Debug\netcoreapp3.1\ConfigurationDemo.pdb
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\obj\Debug\netcoreapp3.1\ConfigurationDemo.dll
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\obj\Debug\netcoreapp3.1\ConfigurationDemo.pdb
+C:\Users\tony.an\source\repos\DesignPattern\ConfigurationDemo\obj\Debug\netcoreapp3.1\ConfigurationDemo.genruntimeconfig.cache
