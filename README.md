@@ -1,2 +1,2 @@
 # NetCore-Configuration
-Learning .Net Core Configuration source code.
+As for learning .Net Core Configuration. This code is get from source code.
